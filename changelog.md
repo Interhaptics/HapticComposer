@@ -1,3 +1,11 @@
+# 23rd of February 2023
+# v1.0.5
+
++ Fixed an issue that could cause a crash when opening the same material twice
++ Fixed an issue that could cause a crash when closing the file explorer window without selecting a file
+
+---
+
 # 8th of February 2023
 # v1.0.4
 
