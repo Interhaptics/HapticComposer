@@ -1,3 +1,11 @@
+# 1st of March 2023
+# v1.0.6
+
++ Fixed an issue that could make the Save As action save with the wrong file extension
++ Fixed an issue preventing the Send to Player action to execute properly
+
+---
+
 # 23rd of February 2023
 # v1.0.5
 
