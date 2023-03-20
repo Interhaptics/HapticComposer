@@ -1,3 +1,17 @@
+# 20th of March 2023
+# v1.1.0
+
++ New audio haptic player: test haptic and audio at the same time on Razer Kraken devkit and PlayStation DualSense
++ New stiffness testing area: test your adaptive trigger effects on PlayStation DualSense controller
++ UI and UX revamp on the main view
++ Renamed Help button to Discord
++ Removed mandatory Razer ID login at startup
++ Haptic Engine backend update
++ Removed presets that could create unexpected behavior in the app
++ Fixed an issue that could cause .haps file to be saved in the wrong format
+
+---
+
 # 1st of March 2023
 # v1.0.6
 
