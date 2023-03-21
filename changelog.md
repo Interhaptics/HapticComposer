@@ -1,3 +1,10 @@
+# 21th of March 2023
+# v1.1.1
+
++ Fixed an issue that could prevent the login window to be prompted, essentially preventing to test on the mobile companion app
+
+---
+
 # 20th of March 2023
 # v1.1.0
 
