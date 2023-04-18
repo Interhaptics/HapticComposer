@@ -16,3 +16,5 @@ The Haptic Composer allows developers to create haptic material using three diff
 The haptic effects created with the Haptic Composer will be automatically imported by the Unity project and will be rendered by Interhaptics Unity SDK.
 
 > -> [Get Interhaptics Unity SDK](https://github.com/Interhaptics/Unity_CoreSDK)
+
+> -> [Haptic Composer documentation](https://www.interhaptics.com/doc/haptic-composer/)
