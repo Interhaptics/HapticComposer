@@ -1,3 +1,11 @@
+# 26-06-2023
+# v1.1.2
+
++ Fixed an issue that could cause the wrong version of the Composer to start after an update
++ Various UI fix
+
+---
+
 # 21th of March 2023
 # v1.1.1
 
