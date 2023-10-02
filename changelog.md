@@ -1,3 +1,12 @@
+# 02-10-2023
+# v1.1.3
+
++ Keyframes selection in Note Editor. You can now select frequency, amplitude, and transient keyframes in the Note Editor and delete them in one action.
++ Various UI fixes in the Note Editor
++ Fixed an issue that could cause the wrong haptic effect to be loaded when opening a file
+
+---
+
 # 26-06-2023
 # v1.1.2
 
