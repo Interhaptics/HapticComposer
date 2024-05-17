@@ -1,3 +1,29 @@
+# 17-05-2024
+# v1.2.0
+
++ Added support to Razer Sensa devices
++ Various bugfixes in UI/UX and backend
+
+---
+
+# 23-02-2024
+# v1.1.4
+
+# Note editor
+- Group keyframe vertical movement
+- Individual keyframe movement rework
+- Updated settings
+    - Removed sliders for keyframe control
+    - Text input are now working as intended
+- Fixed an issue that could lead to incorrect keyframe data saved
+- Fixed an issue that could lead to a crash when deleting all keyframes
+
+# Main view
+- Fixed an issue that could clear the audio track when switching perception
+- Minor optimization update
+
+---
+
 # 02-10-2023
 # v1.1.3
 
