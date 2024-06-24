@@ -1,3 +1,10 @@
+# 24-06-2024
+# v1.2.1
+
++ Patch for Razer Sensa devkits
+
+---
+
 # 17-05-2024
 # v1.2.0
 
